@@ -1,0 +1,12 @@
+F:\CS115 Projects\Assignment 2\States Abbreviation\States Abbreviation\bin\Debug\States Abbreviation.exe.config
+F:\CS115 Projects\Assignment 2\States Abbreviation\States Abbreviation\bin\Debug\States Abbreviation.exe
+F:\CS115 Projects\Assignment 2\States Abbreviation\States Abbreviation\bin\Debug\States Abbreviation.pdb
+F:\CS115 Projects\Assignment 2\States Abbreviation\States Abbreviation\bin\Debug\States Abbreviation.xml
+F:\CS115 Projects\Assignment 2\States Abbreviation\States Abbreviation\obj\Debug\States Abbreviation.vbprojAssemblyReference.cache
+F:\CS115 Projects\Assignment 2\States Abbreviation\States Abbreviation\obj\Debug\States_Abbreviation.Form1.resources
+F:\CS115 Projects\Assignment 2\States Abbreviation\States Abbreviation\obj\Debug\States_Abbreviation.Resources.resources
+F:\CS115 Projects\Assignment 2\States Abbreviation\States Abbreviation\obj\Debug\States Abbreviation.vbproj.GenerateResource.cache
+F:\CS115 Projects\Assignment 2\States Abbreviation\States Abbreviation\obj\Debug\States Abbreviation.vbproj.CoreCompileInputs.cache
+F:\CS115 Projects\Assignment 2\States Abbreviation\States Abbreviation\obj\Debug\States Abbreviation.exe
+F:\CS115 Projects\Assignment 2\States Abbreviation\States Abbreviation\obj\Debug\States Abbreviation.xml
+F:\CS115 Projects\Assignment 2\States Abbreviation\States Abbreviation\obj\Debug\States Abbreviation.pdb
